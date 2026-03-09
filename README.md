@@ -12,7 +12,7 @@ It is designed as a clean, modular, interview‑ready project showcasing:
 ## 📌 Project Overview
 
 Humira is one of the highest‑spending biologics in the U.S. healthcare system.  
-This project analyzes **annual drug utilization and spending data** from Medicare Part D and Medicaid, then builds forecasting models to estimate future patient demand.
+This project analyzes annual drug utilization and spending data from Medicare Part D and Medicaid, then builds forecasting models to estimate future patient demand.
 
 The pipeline includes:
 
@@ -72,7 +72,7 @@ humira-forecast/
 
 ## 🧠 Data Sources
 
-All datasets come from **CMS (Centers for Medicare & Medicaid Services)**:
+All datasets come from CMS (Centers for Medicare & Medicaid Services):
 
 - Medicare Part D Drug Spending by Drug (Annual)
 - Medicaid Drug Spending by Drug (Annual)
@@ -110,7 +110,7 @@ Seasonality disabled because CMS annual data does not include quarterly granular
 ### 2. XGBoost (Gradient Boosted Regression)
 Used for non‑linear trend modeling and robustness checks.
 
-Both models predict **total annual claims** for Humira across Medicare + Medicaid.
+Both models predict total annual claims for Humira across Medicare + Medicaid.
 
 ---
 
