@@ -1,6 +1,6 @@
 # Humira Patient Demand Forecasting (Medicare + Medicaid)
 
-This project builds a complete, end‑to‑end forecasting pipeline to analyze and predict **Humira (adalimumab)** patient demand trends across U.S. Medicare Part D and Medicaid programs.  
+This project builds a complete, end‑to‑end forecasting pipeline to analyze and predict Humira (adalimumab) patient demand trends across U.S. Medicare Part D and Medicaid programs.  
 It is designed as a clean, modular, interview‑ready project showcasing:
 
 - Healthcare data analysis  
