@@ -114,16 +114,9 @@ Both models predict **total annual claims** for Humira across Medicare + Medicai
 
 ---
 
-## ▶️ How to Run
+## ▶️ Disclaimer
 
-1. Clone the repository  
-2. Place CMS annual datasets into `data/`  
-3. Install dependencies:
-pip install -r requirements.txt
-4. Run the forecasting pipeline:
-python src/main.py
-5. Output PNG charts will appear in:
-outputs/
+The analysis is based on publicly available government data. All rights to the underlying data belong to the original source. The interpretations and conclusions expressed herein are solely those of the author and do not imply any endorsement or opposition regarding any company or product. This content is for learning and non-commercial purposes only and does not constitute medical or professional advice.
 
 
 
